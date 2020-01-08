@@ -8,7 +8,7 @@
 	{ "alim": 
 		{
 		"name":"banane",
-		quant":100,
+		"quant":100,
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
@@ -18,7 +18,7 @@
 	{ "alim": 
 		{
 		"name":"banane",
-		quant":100,
+		"quant":100,
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
@@ -33,7 +33,7 @@
 	{ "alim": 
 		{
 		"name":"banane",
-		quant":100,
+		"quant":100,
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
@@ -43,7 +43,7 @@
 	{ "alim": 
 		{
 		"name":"banane",
-		quant":100,
+		"quant":100,
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
