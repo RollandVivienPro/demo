@@ -12,17 +12,17 @@
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
-		"kcal":451
+		"kcal":250
 		} 
 	},
 	{ "alim": 
 		{
-		"name":"banane",
-		"quant":100,
-		"prot":16.5,
-		"gluc":4.4,
-		"lipi":2,
-		"kcal":451
+		"name":"noix",
+		"quant":20,
+		"prot":8.5,
+		"gluc":0,
+		"lipi":10,
+		"kcal":45
 		} 
 	},
 	{ "type": 
@@ -37,17 +37,17 @@
 		"prot":16.5,
 		"gluc":4.4,
 		"lipi":2,
-		"kcal":451
+		"kcal":14
 		} 
 	},
 	{ "alim": 
 		{
-		"name":"banane",
-		"quant":100,
-		"prot":16.5,
-		"gluc":4.4,
-		"lipi":2,
-		"kcal":451
+		"name":"thon",
+		"quant":120,
+		"prot":12.5,
+		"gluc":1.4,
+		"lipi":20,
+		"kcal":157
 		} 
 	}
   ],
