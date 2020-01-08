@@ -1,55 +1,55 @@
 {
   "base-data": [
-{ type: 
-			{
-				name:"déjeuner"
-			} 
-		},
-		{ alim: 
-		 	{
-				name:"banane",
-				quant:100,
-				prot:16.5,
-				gluc:4.4,
-				lipi:2,
-				kcal:451
-			} 
-		},
-		{ alim: 
-		 	{
-				name:"thon",
-				quant:100,
-				prot:6.5,
-				gluc:12.4,
-				lipi:2,
-				kcal:451
-			} 
-		},
-		{ type: 
-			{
-				name:"midi"
-			} 
-		},
-		{ alim: 
-		 	{
-				name:"noix",
-				quant:100,
-				prot:1.5,
-				gluc:0,
-				lipi:2,
-				kcal:451
-			} 
-		},
-		{ alim: 
-		 	{
-				name:"thon",
-				quant:50,
-				prot:22,
-				gluc:24.4,
-				lipi:2,
-				kcal:451
-			} 
-		}
+	{ "type": 
+		{
+		"name":"déjeuner"
+		} 
+	},
+	{ "alim": 
+		{
+		"name":"banane",
+		quant":100,
+		"prot":16.5,
+		"gluc":4.4,
+		"lipi":2,
+		"kcal":451
+		} 
+	},
+	{ "alim": 
+		{
+		"name":"banane",
+		quant":100,
+		"prot":16.5,
+		"gluc":4.4,
+		"lipi":2,
+		"kcal":451
+		} 
+	},
+	{ "type": 
+		{
+		"name":"midi"
+		} 
+	},
+	{ "alim": 
+		{
+		"name":"banane",
+		quant":100,
+		"prot":16.5,
+		"gluc":4.4,
+		"lipi":2,
+		"kcal":451
+		} 
+	},
+	{ "alim": 
+		{
+		"name":"banane",
+		quant":100,
+		"prot":16.5,
+		"gluc":4.4,
+		"lipi":2,
+		"kcal":451
+		} 
+	}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
